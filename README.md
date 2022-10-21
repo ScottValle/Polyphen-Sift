@@ -4,7 +4,8 @@ A data repository for the paper "Comparing and evaluating the performance of pat
 The original dataset:
 https://ftp.ncbi.nlm.nih.gov/pub/clinvar/vcf_GRCh38/archive_1.0/2014/clinvar_20141202.vcf.gz
 
-The following filtered datasets can be found in the Dataset directory:
+The following filtered datasets can be found in the Dataset directory
+
   -BLOSUM62.txt
     The BLOSUM score for all possible amino acid mutations
   -HGVS_2014_VEP_baseline.tsv
@@ -16,7 +17,8 @@ The following filtered datasets can be found in the Dataset directory:
   -HGVS_2014_sift_scores.tsv
     The HGVS ID of 400 mutations and their SIFT prediction score
 
-The following scripts can be found in the Scripts directory:
+The following scripts can be found in the Scripts directory
+
   -skeleton_script_baseline_model.py
   
     Baseline impact predictor of SNPs in VEP format. Uses raw BLOSUM62 matrix from a text file for scoring.
