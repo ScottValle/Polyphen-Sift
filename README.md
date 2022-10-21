@@ -7,14 +7,19 @@ https://ftp.ncbi.nlm.nih.gov/pub/clinvar/vcf_GRCh38/archive_1.0/2014/clinvar_201
 The following filtered datasets can be found in the Dataset directory
 
   -BLOSUM62.txt
+  
     The BLOSUM score for all possible amino acid mutations
   -HGVS_2014_VEP_baseline.tsv
+  
     The HGVS ID of 400 mutations, the resulting change in amino acids and in nucleotides.
   -HGVS_2014_benchmark.tsv
+  
     The HGVS ID of 2982 mutations and their impact
   -HGVS_2014_polyphen_scores.tsv
+  
     The HGVS ID of 400 mutations and their polyphen prediction score
   -HGVS_2014_sift_scores.tsv
+  
     The HGVS ID of 400 mutations and their SIFT prediction score
 
 The following scripts can be found in the Scripts directory
